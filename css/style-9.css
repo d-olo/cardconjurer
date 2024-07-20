@@ -155,6 +155,14 @@
 	font-family: arialblack;
 	src: url('../fonts/arial_black.ttf') format('truetype');
 }
+@font-face {
+	font-family: genshin;
+	src: url('../fonts/genshin.ttf') format('truetype');
+}
+@font-face {
+	font-family: starrail;
+	src: url('../fonts/starrail.ttf') format('truetype');
+}
 /*Variables*/
 :root {
 	--site-background: url('../img/lowpolyBackground.svg');
